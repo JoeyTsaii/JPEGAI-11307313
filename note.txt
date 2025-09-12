@@ -23,6 +23,7 @@
 #   git checkout main (切回 main)
 #   git pull origin main (確認使用的 main 為最新版本)
 #   git merge feature/note (將想要合併的 branch 合併到 main 中)
+#   git commit -m "merge" (確認並提交)
 #   git push origin main (上傳正式版)
 
 #9/12心得 :
