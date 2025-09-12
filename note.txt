@@ -20,8 +20,11 @@
 #   創建 branch 前可能要先確認 branch 有沒有被認可，確認更改完程式後從第10行的部分繼續執行
 
 # merge 的方法 :
+#   git checkout main (切回 main)
+#   git pull origin main (確認使用的 main 為最新版本)
+#   git merge feature/note (將想要合併的 branch 合併到 main 中)
+#   git push origin main (上傳正式版)
+
+#9/12心得 :
+#   養成好習慣每次開始前先 git branch 確認分支， git pull 確認工作的版本為最新版0
 #   
-#
-#
-#
-#
