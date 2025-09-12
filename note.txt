@@ -26,5 +26,5 @@
 #   git push origin main (上傳正式版)
 
 #9/12心得 :
-#   養成好習慣每次開始前先 git branch 確認分支， git pull 確認工作的版本為最新版0
+#   養成好習慣每次開始前先 git branch 確認分支， git pull 確認工作的版本為最新版
 #   
