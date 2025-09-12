@@ -8,7 +8,7 @@
 #每次更改程式前先 : git pull origin main 確保使用的是最新版本再開始編輯
 #每當有更改檔案時 : git add . 將全部檔案加入暫存區
 # git commit -m "change note.html to  note.txt" 將檔案寫上備註並提交
-# git push origin main 把當案合併到原始檔(注意使用add .會覆蓋所有檔案 可以使用git add <file> 代替)
+# git push origin main 把當案合併到原始檔(注意使用 add . 會覆蓋所有檔案 可以使用 git add <file> 代替)
 #
 #
 #
