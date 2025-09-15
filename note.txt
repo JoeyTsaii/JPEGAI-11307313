@@ -4,7 +4,8 @@
 #我的 email : joeytsai@gmail.com 有事可以找我
 #NTUST 2025/9/12
 
-#9/12 第1次正式使用 Github，也順便給以後要用JPEG AI的學弟妹們一個新的使用方案
+#9/12 
+#第1次正式使用 Github，也順便給以後要用JPEG AI的學弟妹們一個新的使用方案
 #我會把 JPEG AI 及 Github 使用上遇到的問題都寫下來
 
 #使用 pull/push 的方式 :
@@ -28,8 +29,27 @@
 
 #9/12心得 :
 #   養成好習慣每次開始前先 git branch 確認分支， git pull 確認工作的版本為最新版
-#   nvidia-smi
 
 
 
+
+#9/15
+#正式開始使用JPEG-AI
+#
+
+# lsb_release -a (查看Ubuntu版本)
+# nvidia-smi (使用 NVIDIA 驅動查看cuda版本及GPU)
+# doxygen --version (檢查 doxygen)
+# dot -V (檢查 graphviz)
+# git lfs version 檢查 (git-lfs)
+
+#如果缺少，安裝方法，安裝完再檢查一次
+# apt-get update
+# apt-get install doxygen graphviz git-lfs
+
+#
+#
+#
+#
+#
 #
