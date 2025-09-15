@@ -47,9 +47,9 @@
 # apt-get update
 # apt-get install doxygen graphviz git-lfs
 
-#
-#
-#
-#
+#如果資料有少可以試試看
+# git remote set-url origin https://gitlab.com/wg1/jpeg-ai/jpeg-ai-reference-software.git (到原始位置下載)
+# git remote -v (確認本地沒有誤連到其他遠端)
+# git remote remove origin (刪除錯誤連線)
 #
 #
