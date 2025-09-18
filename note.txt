@@ -4,8 +4,12 @@
 #我的 email : joeytsai@gmail.com 有事可以找我
 #NTUST 2025/9/12
 
+<<<<<<< HEAD
 #9/12 
 #第1次正式使用 Github，也順便給以後要用JPEG AI的學弟妹們一個新的使用方案
+=======
+#9/12 第1次正式使用 Github，也順便給以後要用JPEG AI的學弟妹們一個新的使用方案
+>>>>>>> fa855a2a7a508c5b13269c7f8ee0163cb2c9cf00
 #我會把 JPEG AI 及 Github 使用上遇到的問題都寫下來
 
 #使用 pull/push 的方式 :
@@ -29,6 +33,7 @@
 
 #9/12心得 :
 #   養成好習慣每次開始前先 git branch 確認分支， git pull 確認工作的版本為最新版
+<<<<<<< HEAD
 
 
 
@@ -61,3 +66,6 @@
 # python -m src.reco.coders.encoder     /workspace/E/jpeg-ai-reference-software/data/test/00001_TE_2096x1400_8bit_sRGB.png   /workspace/E/jpeg-ai-reference-software/results/my_run/bits/JAI_00001_TE_012.bits   --cfg cfg/tools_off.json cfg/profiles/base.json   --set_target_bpp 25
 # (使用 decocoder input檔案 output檔案)
 # python -m src.reco.coders.Decoder     /workspace/E/jpeg-ai-reference-software/results/my_run/result/JAI_00001_TE_012.bits   /workspace/E/jpeg-ai-reference-software/results/my_run/result/rec/JAI_00001_TE_012.png   --cfg cfg/tools_off.json cfg/profiles/base.json
+=======
+#   
+>>>>>>> fa855a2a7a508c5b13269c7f8ee0163cb2c9cf00
