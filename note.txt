@@ -5,11 +5,16 @@
 #NTUST 2025/9/12
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #9/12 
 #第1次正式使用 Github，也順便給以後要用JPEG AI的學弟妹們一個新的使用方案
 =======
 #9/12 第1次正式使用 Github，也順便給以後要用JPEG AI的學弟妹們一個新的使用方案
 >>>>>>> fa855a2a7a508c5b13269c7f8ee0163cb2c9cf00
+=======
+#9/12 
+#第1次正式使用 Github，也順便給以後要用JPEG AI的學弟妹們一個新的使用方案
+>>>>>>> 7d9fcd3bc7900e20616a055d0ec319d07e87add1
 #我會把 JPEG AI 及 Github 使用上遇到的問題都寫下來
 
 #使用 pull/push 的方式 :
@@ -34,6 +39,9 @@
 #9/12心得 :
 #   養成好習慣每次開始前先 git branch 確認分支， git pull 確認工作的版本為最新版
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 7d9fcd3bc7900e20616a055d0ec319d07e87add1
 
 
 
@@ -56,6 +64,7 @@
 # git remote set-url origin https://gitlab.com/wg1/jpeg-ai/jpeg-ai-reference-software.git (到原始位置下載)
 # git remote -v (確認本地沒有誤連到其他遠端)
 # git remote remove origin (刪除錯誤連線)
+<<<<<<< HEAD
 # 
 
 
@@ -69,3 +78,7 @@
 =======
 #   
 >>>>>>> fa855a2a7a508c5b13269c7f8ee0163cb2c9cf00
+=======
+#
+#
+>>>>>>> 7d9fcd3bc7900e20616a055d0ec319d07e87add1

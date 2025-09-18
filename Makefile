@@ -45,7 +45,7 @@ base_cfgs:
 
 tool_ena:
 	rm -Rf ./results/tool_ena
-	python ./scripts/run_tool_perf.py ./cfg/tool_ena ./results/tool_ena
+	CUDA_VISIBLE_DEVICES=0 python ./scripts/run_tool_perf.py ./cfg/tool_ena ./results/tool_ena
 
 tool_dis:
 	rm -Rf ./results/tool_dis
