@@ -85,7 +85,7 @@ class QualityMap(CoderEngine):
             log2_num_threads_q_minus1 = ec.decode([1], bits_count=1, name='log2_num_threads_q_minus1').item()
             self.num_threads = 1 << (log2_num_threads_q_minus1+1)
             
-        self.qp_ec_index = int(ec.decode([1], max_symbol_value=7, name='quality_map_entropy_index')).item()
+        self.qp_ec_index = int(ec.decode([1], max_symbol_value=7, name='quality_map_entropy_index'))
         self.set_ec_params()
 
     def encode_header(self, ec: HeaderCoder) -> None:
